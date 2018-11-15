@@ -1,1 +1,1 @@
-TheFridayProger: python MyBot.py
+worker: python mybot.py
